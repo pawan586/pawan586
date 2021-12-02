@@ -1,13 +1,4 @@
-- 👋 Hi, I’m @pawan586
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning web design
-- 💞️ I’m looking to collaborate on palpawan586@gmail.com
-- 📫 How to reach me palpawan586@gmail.com
 
-<!---
-pawan586/pawan586 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <!--
 **pawan586/pawan586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,13 +18,16 @@ Here are some ideas to get you started:
 <h1 align="center">I'm pawan pal</h1>
 <h3 align="center">A passionate developer and open-source enthusiast✨</h3>
 
-- 🔭 I'm a 3rd year undergrad, pursuing Bachelors of Technology in Computer Science.
-- 🌱 I'm currently focusing on Full Stack web development (MERN).
-- 👯 I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me: [Gmail](mailto:palpawan586@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fact: Web Development is not equal to Web Designing.
+- 👋 Hi, I’m @pawan586
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning web design
+- 💞️ I’m looking to collaborate on palpawan586@gmail.com
+- 📫 How to reach me palpawan586@gmail.com
 
+<!---
+pawan586/pawan586 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 <br>
 
 <h2 align="center">Languages and Tools:</h2>
