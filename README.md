@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hello Everyone 🤗</h2>
 <h1 align="center">I'm pawan pal</h1>
-<h3 align="center">A passionate developer and open-source enthusiast✨</h3>
+<h3 align="center">A passionate developer</h3>
 
 - 👋 Hi, I’m @pawan586
 - 👀 I’m interested in programing
